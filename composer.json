@@ -1,1 +1,22 @@
-{}
+{
+    "name": "l7wahn/mercadolibre-php-sdk",
+    "description": "Fork of mercadolibre for my own work",
+    "keywords": ["php", "laravel", "crm", "admin", "cms", "administrator"],
+    "license": "MIT",
+    "homepage": "http://desarrollatuapp.com", 
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Mercadolibre"
+        },
+        {
+            "name": "Luis Moreno",
+            "email": "l7wahn@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MercadoLibre\\": "src/"
+        }
+    }
+}

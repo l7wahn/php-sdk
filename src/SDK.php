@@ -1,6 +1,8 @@
 <?php
 
-class Meli {
+namespace MercadoLibre;
+
+class SDK {
 
 	/**
 	 * @version 2.0.0
